@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <stack>
+#include <vector>
+#include <deque>
+#include <string>
+#include <chrono>
+#include <functional>

@@ -1,0 +1,20 @@
+A B C D E F G H I J
+AB 4
+AC 3
+BE 9
+BD 5
+BC 5
+CD 5
+CH 5
+CI 1
+DE 7
+DF 6
+DG 5
+DH 4
+EF 3
+EI 3
+FG 2
+FJ 5
+GH 6
+HJ 1
+IJ 7
